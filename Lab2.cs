@@ -42,6 +42,13 @@ namespace lab2
     }
 
     // ===================== Zadanie 1 =====================
+
+//     Napisz klasę Osoba, która będzie przechowywać informacje o imieniu, nazwisku oraz wieku osoby.
+// • Zaimplementuj konstruktor, który będzie przyjmował wszystkie trzy wartości.
+// • Użyj właściwości Imie, Nazwisko, Wiek, z walidacją:
+// o Imię i Nazwisko muszą mieć co najmniej 2 znaki.
+// o Wiek musi być liczbą dodatnią.
+// • Zaimplementuj metodę WyswietlInformacje(), która wyświetli informacje o osobie.
     class Osoba
     {
         private string imie;
@@ -95,6 +102,12 @@ namespace lab2
     }
 
     // ===================== Zadanie 2 =====================
+//     Napisz klasę BankAccount, która będzie symulowała konto bankowe.
+// • Zaimplementuj właściwości Saldo (publiczne, tylko do odczytu) i Wlasciciel.
+// • Dodaj metodę Wplata(decimal kwota), która pozwala na zwiększenie salda, oraz metodę
+// Wyplata(decimal kwota), która sprawdzi, czy jest wystarczająca ilość środków, a następnie
+// odejmie odpowiednią kwotę.
+// • Użyj operatorów dostępu, aby zabezpieczyć saldo przed bezpośrednią modyfikacją.
     class BankAccount
     {
         public string Wlasciciel { get; set; }
@@ -126,6 +139,11 @@ namespace lab2
     }
 
     // ===================== Zadanie 3 =====================
+//     Napisz klasę Student, która będzie przechowywała imię, nazwisko i tablicę ocen.
+// • Zaimplementuj właściwość SredniaOcen, która obliczy i zwróci średnią ocen.
+// • Dodaj metodę DodajOcene(int ocena), która doda nową ocenę do tablicy.
+// • Zaimplementuj konstruktor inicjujący imię i nazwisko studenta.
+
     class Student
     {
         public string Imie { get; set; }
@@ -159,6 +177,16 @@ namespace lab2
     }
 
     // ===================== Zadanie 4 =====================
+//     Stwórz klasę Licz z:
+// • publicznym polem value przechowującym wartość liczbową.
+// • metodą Dodaj przyjmującą jeden parametr i dodającą przekazaną wartość do wartości
+// trzymanej w polu value.
+// • analogiczną operację odejmij
+// W Main utwórz kilka obiektów klasy Licz i wykonaj różne operacje.
+// Do klasy Licz dodaj konstruktor z jednym parametrem - który inicjuje pole wartość na liczbę przekazaną
+// w parametrze.
+// Zmień widoczność pola na private i dodaj funkcję wypisującą stan obiektu (pole value).
+
     class Licz
     {
         private int value;
@@ -185,6 +213,16 @@ namespace lab2
     }
 
     // ===================== Zadanie 5 =====================
+//     Stwórz klasę Sumator z:
+// • publicznym polem Liczby będącym tablicą liczb
+// • metodą Suma zwracającą sumę liczb z pola Liczby
+// • metodę SumaPodziel2 zwracającą sumę liczb z tablicy, które są podzielne przez 2
+// Zmień widoczność pola Liczby na private oraz dodaj konstruktor.
+// Dodaj metodę: int IleElementów () zwracającej liczbę elementów na w tablicy
+// Dodaj metodę wypisującą wszystkie elementy tablicy
+// Dodaj metodę przyjmującą dwa parametry: lowIndex oraz highIndex, która wypisze elementy o
+// indeksach >= lowIndex oraz <= highIndex. Metoda powinna zadziałać poprawnie, gdy lowIndex lub
+// highIndex wykraczają poza zakres tablicy (pominąć te elementy).
     class Sumator
     {
         private int[] Liczby;
@@ -230,4 +268,5 @@ namespace lab2
             Console.WriteLine();
         }
     }
+
 }
