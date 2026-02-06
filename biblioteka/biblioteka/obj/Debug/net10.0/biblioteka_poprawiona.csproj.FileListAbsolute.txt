@@ -1,0 +1,14 @@
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.AssemblyInfoInputs.cache
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.AssemblyInfo.cs
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.csproj.CoreCompileInputs.cache
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\bin\Debug\net10.0\biblioteka_poprawiona.exe
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\bin\Debug\net10.0\biblioteka_poprawiona.deps.json
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\bin\Debug\net10.0\biblioteka_poprawiona.runtimeconfig.json
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\bin\Debug\net10.0\biblioteka_poprawiona.dll
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\bin\Debug\net10.0\biblioteka_poprawiona.pdb
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.dll
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\refint\biblioteka_poprawiona.dll
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.pdb
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\biblioteka_poprawiona.genruntimeconfig.cache
+C:\Programowanie obiektowe\Nowy folder\biblioteka_poprawiona\biblioteka_poprawiona\obj\Debug\net10.0\ref\biblioteka_poprawiona.dll
